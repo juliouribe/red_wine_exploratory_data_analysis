@@ -1,0 +1,15 @@
+Sources
+
+Biblio
+Colors
+http://sape.inf.usi.ch/quick-reference/ggplot2/colour
+More Colors
+http://ggplot2.tidyverse.org/reference/scale_brewer.html
+Sulphites in Wine(preservative)
+https://www.thekitchn.com/the-truth-about-sulfites-in-wine-myths-of-red-wine-headaches-100878
+Citric acid(via wikipedia)
+J. Robinson (ed) “The Oxford Companion to Wine” Third Edition pg 171 Oxford University Press 2006 ISBN 0-19-860990-6
+Sulfur dioxide also preservative and result of fermentation or added in
+https://winobrothers.com/2011/10/11/sulfur-dioxide-so2-in-wine/
+pH scale info
+http://chemistry.elmhurst.edu/vchembook/184ph.html
